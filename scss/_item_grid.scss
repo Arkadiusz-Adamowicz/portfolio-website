@@ -27,7 +27,7 @@
   &:hover:after {
     transform: scale(2) translateX(0) translateY(0) rotate(0); 
   };
-
+ 
   // Scale image on hover
   &:hover &-image {
     transform: scale(1.2);
